@@ -21,4 +21,10 @@ Language: Python
 
 Framework: PyTorch
 
-Environment: Environment setup details can be found in environment.yml.
+Environment setup:
+
+```
+conda env create -f Transformers.yml
+```
+
+
