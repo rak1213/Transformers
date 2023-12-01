@@ -24,7 +24,8 @@ Framework: PyTorch
 Environment setup:
 
 ```
-conda env create -f Transformers.yml
+conda env create --name Transformers --file=environment.yml
+ 
 ```
 
 
